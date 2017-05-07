@@ -1,0 +1,6 @@
+1. create a directory named after the challenge name in current directory
+2. copy the binary into the directory
+3. run deploy script
+	./deploy binaryname exposeport Linuxversion
+
+
