@@ -2,5 +2,6 @@
 2. copy the binary into the directory
 3. run deploy script
 	./deploy binaryname exposeport Linuxversion
+4. libc(32bits and 64bits) files will be placed in the "lib" directory
 
 
